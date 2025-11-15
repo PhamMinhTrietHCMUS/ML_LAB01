@@ -1,0 +1,7 @@
+https://archive.ics.uci.edu/dataset/242/energy-efficiency
+
+https://archive.ics.uci.edu/dataset/165/concrete-compressive-strength
+
+https://archive.ics.uci.edu/dataset/477/real-estate-valuation-data-set
+
+https://archive.ics.uci.edu/dataset/374/appliances-energy-prediction
